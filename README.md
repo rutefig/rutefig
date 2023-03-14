@@ -22,6 +22,18 @@ Let's make some code to make the World a better place to live! 🌴
 <span>
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rutefig&show_icons=true&theme=buefy&title_color=333d29&text_color=414833&bg_color=ffffff&locale=en&layout=compact&hide_border=true" alt="#your-username" />
 </span>
+
+## ✍️ Articles
+- [How to Setup a New Project with Python Env](https://medium.com/@rutefig/how-to-setup-a-new-project-with-python-env-f6a55a98fc05)
+- [OpenShift vs Kubernetes: what are the differences](https://www.imaginarycloud.com/blog/openshift-vs-kubernetes-differences/)
+- [Podman vs Docker: What are the differences?](https://www.imaginarycloud.com/blog/podman-vs-docker/)
+- [The 6 must-know advantages of Python](https://www.imaginarycloud.com/blog/advantages-of-python/)
+- [Functional programming vs OOP: comparing paradigms](https://www.imaginarycloud.com/blog/functional-programming-vs-oop/)
+- [Kotlin vs Java: the 12 differences you should know](https://www.imaginarycloud.com/blog/kotlin-vs-java/)
+- [TypeScript vs JavaScript: which one is better?](https://www.imaginarycloud.com/blog/typescript-vs-javascript/)
+- [Python vs Java: key differences and code examples](https://www.imaginarycloud.com/blog/python-vs-java/)
+
+
 <!--
 **rutefig/rutefig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
