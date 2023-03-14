@@ -17,7 +17,11 @@ Let's make some code to make the World a better place to live! 🌴
   <img src="https://user-images.githubusercontent.com/23409167/225082390-9fc4591a-8a49-4130-9739-af19ae08f630.png" width="36" height="36" />
 </span>
 
+## 📈 Stats
 
+<span>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rutefig&show_icons=true&theme=buefy&title_color=333d29&text_color=414833&bg_color=ffffff&locale=en&layout=compact&hide_border=true" alt="#your-username" />
+</span>
 <!--
 **rutefig/rutefig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -31,4 +35,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Stats:
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=rutefig&show_icons=true&theme=transparent&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="rutefig" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rutefig&theme=highcontrast&hide_border=true" alt="rutefig" />
 -->
