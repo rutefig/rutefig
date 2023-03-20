@@ -17,10 +17,19 @@ Let's make some code to make the World a better place to live! 🌴
   <img src="https://user-images.githubusercontent.com/23409167/225082390-9fc4591a-8a49-4130-9739-af19ae08f630.png" width="36" height="36" />
 </span>
 
+<br />
+<br />
+
+🏄🏻‍♀️ I also have some knowledge about:
+
+<span>
+  <img src="https://user-images.githubusercontent.com/23409167/226442807-e681ef8d-0315-4c45-8259-1438e3f7745d.png" width="36" height="36" />
+</span>
+
 ## 📈 Stats
 
 <span>
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rutefig&show_icons=true&theme=buefy&title_color=333d29&text_color=414833&bg_color=ffffff&locale=en&layout=compact&hide_border=true" alt="#your-username" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rutefig&show_icons=true&theme=buefy&title_color=333d29&text_color=414833&bg_color=ffffff&locale=en&layout=compact&hide_border=true" alt="#your-username" />
 </span>
 
 ## ✍️ Articles
