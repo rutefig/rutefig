@@ -9,22 +9,23 @@
 Let's make some code to make the World a better place to live! 🌴
 
 ## 🎯 Let's get to the point!
-👩🏻‍💻 Currently working and developing Web Apps with **NodeJS**, **React**, **Typescript**, HTML, CSS and SCSS, Javascript
+👩🏻‍💻 Currently working and developing Web Apps and Dapps with **NodeJS**, **React**, **Typescript**, **Solidity**, HTML, CSS and SCSS, Javascript, Jest, Docker: <br />
 
 <span>
-  <img src="https://user-images.githubusercontent.com/23409167/225079105-8d0aa2ea-1db0-4905-a101-ef1d20e3d420.png" width="36" height="36" />
-  <img src="https://user-images.githubusercontent.com/23409167/225080919-c010b59d-4f11-4bca-971f-af8aa37aa81c.png" width="36" height="36" />
-  <img src="https://user-images.githubusercontent.com/23409167/225082390-9fc4591a-8a49-4130-9739-af19ae08f630.png" width="36" height="36" />
+  <img src="https://user-images.githubusercontent.com/23409167/225079105-8d0aa2ea-1db0-4905-a101-ef1d20e3d420.png" width="36" height="36" alt="NodeJS" />
+  <img src="https://user-images.githubusercontent.com/23409167/225080919-c010b59d-4f11-4bca-971f-af8aa37aa81c.png" width="36" height="36" alt="React" />
+  <img src="https://user-images.githubusercontent.com/23409167/225082390-9fc4591a-8a49-4130-9739-af19ae08f630.png" width="36" height="36" alt="Typescript" />
+  <img src="https://user-images.githubusercontent.com/23409167/226442807-e681ef8d-0315-4c45-8259-1438e3f7745d.png" width="36" height="36" alt="Solidity" /> 
 </span>
-
-<br />
-<br />
-
-🏄🏻‍♀️ I also have some knowledge about:
-
+<br /><br />
 <span>
-  <img src="https://user-images.githubusercontent.com/23409167/226442807-e681ef8d-0315-4c45-8259-1438e3f7745d.png" width="36" height="36" />
+  <img src="https://user-images.githubusercontent.com/23409167/226557605-b8099e8d-0bf3-4251-b711-dc14237525cc.png" width="36" height="36" alt="HTML" />
+  <img src="https://user-images.githubusercontent.com/23409167/226558276-2a76ed7b-361b-4fd1-a55c-59b07c5432e2.png" width="36" height="36" alt="CSS" />
+  <img src="https://user-images.githubusercontent.com/23409167/226558548-9864cd3c-1247-4a3f-b1ff-d53737525930.png" width="36" height="36" alt="Javascript" />
+  <img src="https://user-images.githubusercontent.com/23409167/226554496-6ed2153b-6234-498d-ae38-a362ca245ed3.png" width="36" height="36" alt="Jest" />
+  <img src="https://user-images.githubusercontent.com/23409167/226553025-fab21d65-d247-4661-890c-b1d442f4f5ff.png" width="36" height="36" alt="Docker" />
 </span>
+
 
 ## 📈 Stats
 
@@ -42,6 +43,19 @@ Let's make some code to make the World a better place to live! 🌴
 - [TypeScript vs JavaScript: which one is better?](https://www.imaginarycloud.com/blog/typescript-vs-javascript/)
 - [Python vs Java: key differences and code examples](https://www.imaginarycloud.com/blog/python-vs-java/)
 
+
+## 📱 Fell Free to Reach Me!
+<span>
+  <a href="mailto:rfigueiredo.dev@gmail.com">
+    <img src="https://user-images.githubusercontent.com/23409167/226564520-f673ae13-e923-4571-a12c-86d95f040c18.png" width="36" height="36" alt="Email me" />
+  </a>
+  <a href="https://www.linkedin.com/in/rute-figueiredo-dev/">
+    <img src="https://user-images.githubusercontent.com/23409167/226563759-2c1dadb0-54de-4a20-8166-4dfc8d9b5422.png" width="36" height="36" alt="LinkedIn Profile" />
+  </a>
+  <a href="https://t.me/rutefig">
+    <img src="https://user-images.githubusercontent.com/23409167/226565671-a2b48714-8274-4161-8e83-f949e79aa7c5.png" width="36" height="36" alt="Message me on Telegram" />
+  </a>
+</span>
 
 <!--
 **rutefig/rutefig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
