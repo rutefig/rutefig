@@ -9,13 +9,15 @@
 Let's make some code to make the World a better place to live! 🌴
 
 ## 🎯 Let's get to the point!
-👩🏻‍💻 Currently working and developing Web Apps and Dapps with **NodeJS**, **React**, **Typescript**, **Solidity**, HTML, CSS and SCSS, Javascript, Jest, Docker: <br />
+👩🏻‍💻 Currently working and developing Web Apps and Dapps with **NodeJS**, **React**, **Typescript**, **Solidity**, **Cairo**, **Rust**, HTML, CSS and SCSS, Javascript, Jest, Docker: <br />
 
 <span>
   <img src="https://user-images.githubusercontent.com/23409167/225079105-8d0aa2ea-1db0-4905-a101-ef1d20e3d420.png" width="36" height="36" alt="NodeJS" />
   <img src="https://user-images.githubusercontent.com/23409167/225080919-c010b59d-4f11-4bca-971f-af8aa37aa81c.png" width="36" height="36" alt="React" />
   <img src="https://user-images.githubusercontent.com/23409167/225082390-9fc4591a-8a49-4130-9739-af19ae08f630.png" width="36" height="36" alt="Typescript" />
-  <img src="https://user-images.githubusercontent.com/23409167/226442807-e681ef8d-0315-4c45-8259-1438e3f7745d.png" width="36" height="36" alt="Solidity" /> 
+  <img src="https://user-images.githubusercontent.com/23409167/226442807-e681ef8d-0315-4c45-8259-1438e3f7745d.png" width="36" height="36" alt="Solidity" />
+  <img src="https://starkware.co/wp-content/uploads/2021/05/StarkNet-Icon.png" width="36" height="36" alt="Starknet" />
+  <img src="https://www.rust-lang.org/logos/rust-logo-512x512.png" width="36" height="36" alt="Rust" />
 </span>
 <br /><br />
 <span>
